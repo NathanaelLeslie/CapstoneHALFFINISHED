@@ -1,0 +1,71 @@
+
+.body_background {
+    background-image: url("space.image.webp");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      font-size: 40px;
+      font-family:monospace
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: black; 
+      border-style:ridge;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+ h1 {
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 50px;
+	text-shadow: #A3A3A3 1px 1px 1px;
+}
+.rainbow-text {
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 100px;
+	text-shadow: #A3A3A3 1px 1px 1px;
+}
+.rainbow-text .block-line > span {
+	display: inline-block;
+}
+
+#purple {
+    background-color: purple;
+    color:white;
+    border-radius: 15px;
+    border-style:ridge;
+}
+#blue {
+    background-color: blue;
+    color:white;
+    border-radius: 15px;
+    border-style:ridge;
+}
+#white {
+    background-color: white;
+    color:black;
+    border-radius: 15px;
+    border-style:ridge;
+}
+#pink {
+    background-color: pink;
+    color:black;
+    border-radius: 15px;
+    border-style:ridge;
+}
+#clear_button {
+    background-color: black;
+    color:white;
+    border-radius: 15px;
+    border-style:ridge;
+}
